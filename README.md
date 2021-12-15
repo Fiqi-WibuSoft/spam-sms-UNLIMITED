@@ -12,8 +12,8 @@
 # Run
 
 • git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED
-• cd spam-sms-UNLIMITED
-• python sms-UNLI.py
+• cd spam-sms-UNLIMITED<br>
+• python sms-UNLI.py<br>
 
 ~ Pilih mode<br>
 ~ Masukan nomor berawalan 08<br>
