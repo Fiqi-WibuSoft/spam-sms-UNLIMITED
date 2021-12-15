@@ -4,14 +4,14 @@
 
 # Installing
 
-• pkg install git
-• pkg install python
-• pip install requests
-• pip install bs4
+• pkg install git<br>
+• pkg install python<br>
+• pip install requests<br>
+• pip install bs4<br>
 
 # Run
 
-• git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED
+• git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED<br>
 • cd spam-sms-UNLIMITED<br>
 • python sms-UNLI.py<br>
 
