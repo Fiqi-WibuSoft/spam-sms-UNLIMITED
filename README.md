@@ -11,7 +11,7 @@
 
 # Run
 
-• git clone https://github.com/arief125/spam-sms<br>
+• git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED<br>
 • cd spam-sms<br>
 • python sms.py<br><br>
 
@@ -20,4 +20,4 @@
 
 # About
 
-• <a href="//instagram.com/hyputganz_">Follow Ig Gw</a>
+• <a href="//instagram.com/hyputganz_">Follow Instagram Gw</a>
