@@ -46,7 +46,7 @@ class docter:
 		}
 		ata={
 			'_token':token,
-			'full_name':'BambangSubianto',
+			'full_name':'FiqiArdiansyah',
 			'email':'Hsjakaj@jskaka.com',
 			'phone':num,
 			'back-to':'',
@@ -90,10 +90,10 @@ while True:
 	try:
 		os.system('clear')
 		print("""
-============================================================
+Φ==========================================================Φ
                        FIQI GANZ
-                         - SMS -
-============================================================
+                         <SMS>
+Φ==========================================================Φ
  
 [1] 5X / JAM
 [2] 1X / MENIT ( UNLIMITED )
