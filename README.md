@@ -12,7 +12,8 @@
 # Run
 
 • git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED<br>
-• cd spam-sms<br>
+• cd spam-sms-UNLIMITED
+• ls
 • python sms.py<br><br>
 
 ~ Pilih mode<br>
