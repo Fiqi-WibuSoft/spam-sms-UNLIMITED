@@ -18,6 +18,10 @@
 ~ Pilih mode<br>
 ~ Masukan nomor berawalan 08<br>
 
-# About
+# Official Ige
 
 • <a href="//instagram.com/hyputganz_">Follow Instagram Gw</a>
+
+# Save Wa Gueh
+
+• <a href="//wa.me/+6283125187277">Save Wa Gue</a>
