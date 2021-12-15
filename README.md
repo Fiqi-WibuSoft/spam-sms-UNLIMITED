@@ -4,17 +4,16 @@
 
 # Installing
 
-• pkg install git<br>
-• pkg install python<br>
-• pip install requests<br>
-• pip install bs4<br>
+• pkg install git
+• pkg install python
+• pip install requests
+• pip install bs4
 
 # Run
 
-• git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED<br>
+• git clone https://github.com/Fiqi-WibuSoft/spam-sms-UNLIMITED
 • cd spam-sms-UNLIMITED
-• ls
-• python sms-UNLI.py<br>
+• python sms-UNLI.py
 
 ~ Pilih mode<br>
 ~ Masukan nomor berawalan 08<br>
